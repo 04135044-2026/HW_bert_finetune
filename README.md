@@ -150,3 +150,6 @@ HW_bert_finetune/
 - 五句文字的分類結果：[output/predictions.csv](output/predictions.csv)，預測分數直接呈現在上方表格。
 - 訓練紀錄：[output/trainer_state.json](output/trainer_state.json)。
 
+1. [訓練模型](https://youtu.be/pGrCpSxtYQM)
+2. [預測結果](https://youtu.be/7LBi7Spw5P8)
+
